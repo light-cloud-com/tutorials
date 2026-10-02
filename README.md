@@ -21,5 +21,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |---|---|---|---|---|
 |  | [Deploy a React App in Minutes: Your First Light Cloud Website, for Free](https://blog.light-cloud.com/tutorials/deploy-a-react-app) | 2026-09-30 | [code](https://github.com/light-cloud-com/tutorial-react-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/7) |
 |  | [How to Deploy a Vue 3 App with Vue Router and TypeScript on Light Cloud](https://blog.light-cloud.com/tutorials/deploy-a-vue-app) | 2026-10-01 | [code](https://github.com/light-cloud-com/tutorial-vue-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/8) |
+|  | [How to Deploy an Angular App on Light Cloud, Deep Links Included](https://blog.light-cloud.com/tutorials/deploy-an-angular-app) | 2026-10-02 | [code](https://github.com/light-cloud-com/tutorial-angular-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/9) |
 
 New tutorials are published on the blog first and appear here the same day.
