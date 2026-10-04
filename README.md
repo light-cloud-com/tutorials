@@ -23,5 +23,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |  | [How to Deploy a Vue 3 App with Vue Router and TypeScript on Light Cloud](https://blog.light-cloud.com/tutorials/deploy-a-vue-app) | 2026-10-01 | [code](https://github.com/light-cloud-com/tutorial-vue-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/8) |
 |  | [How to Deploy an Angular App on Light Cloud, Deep Links Included](https://blog.light-cloud.com/tutorials/deploy-an-angular-app) | 2026-10-02 | [code](https://github.com/light-cloud-com/tutorial-angular-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/9) |
 |  | [Deploy a SvelteKit Site as Static Files: adapter-static and Prerendering](https://blog.light-cloud.com/tutorials/deploy-a-sveltekit-app) | 2026-10-03 | [code](https://github.com/light-cloud-com/tutorial-sveltekit-app) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/10) |
+|  | [Put a Node.js Express API Online: Port, Environment Variables and Logs](https://blog.light-cloud.com/tutorials/deploy-an-express-api) | 2026-10-04 | [code](https://github.com/light-cloud-com/tutorial-express-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/11) |
 
 New tutorials are published on the blog first and appear here the same day.
