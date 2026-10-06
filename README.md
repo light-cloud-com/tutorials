@@ -25,5 +25,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |  | [Deploy a SvelteKit Site as Static Files: adapter-static and Prerendering](https://blog.light-cloud.com/tutorials/deploy-a-sveltekit-app) | 2026-10-03 | [code](https://github.com/light-cloud-com/tutorial-sveltekit-app) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/10) |
 |  | [Put a Node.js Express API Online: Port, Environment Variables and Logs](https://blog.light-cloud.com/tutorials/deploy-an-express-api) | 2026-10-04 | [code](https://github.com/light-cloud-com/tutorial-express-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/11) |
 |  | [FastAPI in Production: From main.py to a Public URL](https://blog.light-cloud.com/tutorials/deploy-a-fastapi-app) | 2026-10-05 | [code](https://github.com/light-cloud-com/tutorial-fastapi-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/12) |
+|  | [Put a Password on a Staging Site Before the Client Sees It](https://blog.light-cloud.com/tutorials/password-protect-a-staging-site) | 2026-10-06 | [code](https://github.com/light-cloud-com/tutorial-react-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/13) |
 
 New tutorials are published on the blog first and appear here the same day.
