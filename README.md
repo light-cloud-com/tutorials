@@ -28,5 +28,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |  | [Put a Password on a Staging Site Before the Client Sees It](https://blog.light-cloud.com/tutorials/password-protect-a-staging-site) | 2026-10-06 | [code](https://github.com/light-cloud-com/tutorial-react-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/13) |
 |  | [A Preview URL for Every Branch, Posted on Your Pull Request](https://blog.light-cloud.com/tutorials/preview-url-for-every-branch) | 2026-10-07 | [code](https://github.com/light-cloud-com/tutorial-react-website) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/14) |
 |  | [Django + PostgreSQL on Light Cloud: Migrations, Static Files and a Live Admin](https://blog.light-cloud.com/tutorials/deploy-django-with-postgres) | 2026-10-08 | [code](https://github.com/light-cloud-com/tutorial-django-postgres) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/15) |
+|  | [Environment Variables and Secrets: Build Time vs Run Time](https://blog.light-cloud.com/tutorials/environment-variables-and-secrets) | 2026-10-09 | [code](https://github.com/light-cloud-com/tutorial-env-vars) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/16) |
 
 New tutorials are published on the blog first and appear here the same day.
