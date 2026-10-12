@@ -31,5 +31,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |  | [Environment Variables and Secrets: Build Time vs Run Time](https://blog.light-cloud.com/tutorials/environment-variables-and-secrets) | 2026-10-09 | [code](https://github.com/light-cloud-com/tutorial-env-vars) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/16) |
 |  | [A Flask App in Production, Without Writing a Dockerfile](https://blog.light-cloud.com/tutorials/deploy-a-flask-app) | 2026-10-10 | [code](https://github.com/light-cloud-com/tutorial-flask-app) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/17) |
 |  | [Deploy a NestJS API with a Database Connection](https://blog.light-cloud.com/tutorials/deploy-a-nestjs-api) | 2026-10-11 | [code](https://github.com/light-cloud-com/tutorial-nestjs-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/18) |
+|  | [A Go (Gin) API Deployed in Five Steps](https://blog.light-cloud.com/tutorials/deploy-a-go-api) | 2026-10-12 | [code](https://github.com/light-cloud-com/tutorial-go-gin-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/19) |
 
 New tutorials are published on the blog first and appear here the same day.
