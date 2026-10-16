@@ -35,5 +35,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |  | [Spring Boot on Light Cloud: JAR, Port and Memory Settings](https://blog.light-cloud.com/tutorials/deploy-a-spring-boot-app) | 2026-10-13 | [code](https://github.com/light-cloud-com/tutorial-spring-boot-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/20) |
 |  | [Deploying ASP.NET Core Without Azure](https://blog.light-cloud.com/tutorials/deploy-an-aspnet-core-api) | 2026-10-14 | [code](https://github.com/light-cloud-com/tutorial-aspnet-core-api) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/21) |
 |  | [Bring Your Own Dockerfile: Deploy Anything That Runs in a Container](https://blog.light-cloud.com/tutorials/deploy-any-app-with-a-dockerfile) | 2026-10-15 | [code](https://github.com/light-cloud-com/tutorial-dockerfile-app) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/22) |
+|  | [Deploying Next.js with Server Rendering (and When to Use Static Export)](https://blog.light-cloud.com/tutorials/deploy-nextjs) | 2026-10-16 | [code](https://github.com/light-cloud-com/tutorial-nextjs-app) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/23) |
 
 New tutorials are published on the blog first and appear here the same day.
