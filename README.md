@@ -15,6 +15,12 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | 5/6 | [Microservices Part 5: Preview a Branch and Roll Back](https://blog.light-cloud.com/tutorials/microservices-on-light-cloud-part-5-branches-and-rollback) | 2026-09-28 | [code](https://github.com/light-cloud-com/tutorial-microservices) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/5) |
 | 6/6 | [Microservices Part 6: Trace One Request Through the Logs](https://blog.light-cloud.com/tutorials/microservices-on-light-cloud-part-6-logs-and-tracing) | 2026-09-29 | [code](https://github.com/light-cloud-com/tutorial-microservices) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/6) |
 
+## Databases on Light Cloud
+
+| # | Tutorial | Published | Code | Thread |
+|---|---|---|---|---|
+| 1/8 | [Create a PostgreSQL Database in One Minute and Connect From Your Laptop](https://blog.light-cloud.com/tutorials/create-a-postgres-database) | 2026-10-28 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/25) |
+
 ## Guides
 
 | # | Tutorial | Published | Code | Thread |
