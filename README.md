@@ -20,6 +20,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | # | Tutorial | Published | Code | Thread |
 |---|---|---|---|---|
 | 1/8 | [Create a PostgreSQL Database in One Minute and Connect From Your Laptop](https://blog.light-cloud.com/tutorials/create-a-postgres-database) | 2026-10-28 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/25) |
+| 2/8 | [Browse and Edit Your Data Without a SQL Client: the Data Explorer](https://blog.light-cloud.com/tutorials/database-data-explorer) | 2026-10-29 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/26) |
 
 ## Guides
 
