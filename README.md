@@ -23,6 +23,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | 2/8 | [Browse and Edit Your Data Without a SQL Client: the Data Explorer](https://blog.light-cloud.com/tutorials/database-data-explorer) | 2026-10-29 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/26) |
 | 3/8 | [Run SQL in the Browser: Queries, Joins and Quick Fixes on a Live Database](https://blog.light-cloud.com/tutorials/run-sql-queries-in-the-console) | 2026-10-30 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/27) |
 | 4/8 | [Back Up a Database: Download a SQL Dump and Restore It](https://blog.light-cloud.com/tutorials/export-a-database-backup) | 2026-10-31 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/28) |
+| 5/8 | [Import Data into Light Cloud: Upload a .sql Dump or Stream It with psql](https://blog.light-cloud.com/tutorials/import-a-sql-dump) | 2026-11-01 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/29) |
 
 ## Guides
 
