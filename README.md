@@ -25,6 +25,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | 4/8 | [Back Up a Database: Download a SQL Dump and Restore It](https://blog.light-cloud.com/tutorials/export-a-database-backup) | 2026-10-31 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/28) |
 | 5/8 | [Import Data into Light Cloud: Upload a .sql Dump or Stream It with psql](https://blog.light-cloud.com/tutorials/import-a-sql-dump) | 2026-11-01 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/29) |
 | 6/8 | [Rotate a Database Password With Only Seconds of Downtime](https://blog.light-cloud.com/tutorials/rotate-database-password) | 2026-11-02 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/30) |
+| 7/8 | [Schema Migrations on Every Deploy: Run Them When Your App Starts](https://blog.light-cloud.com/tutorials/database-migrations-in-deploys) | 2026-11-03 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/31) |
 
 ## Guides
 
