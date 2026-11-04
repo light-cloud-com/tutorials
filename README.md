@@ -26,6 +26,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | 5/8 | [Import Data into Light Cloud: Upload a .sql Dump or Stream It with psql](https://blog.light-cloud.com/tutorials/import-a-sql-dump) | 2026-11-01 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/29) |
 | 6/8 | [Rotate a Database Password With Only Seconds of Downtime](https://blog.light-cloud.com/tutorials/rotate-database-password) | 2026-11-02 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/30) |
 | 7/8 | [Schema Migrations on Every Deploy: Run Them When Your App Starts](https://blog.light-cloud.com/tutorials/database-migrations-in-deploys) | 2026-11-03 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/31) |
+| 8/8 | [Too Many Connections? Count Them and Size Your Pool](https://blog.light-cloud.com/tutorials/database-metrics-and-connections) | 2026-11-04 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/32) |
 
 ## Guides
 
