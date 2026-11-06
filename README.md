@@ -51,5 +51,6 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |  | [Deploying Next.js with Server Rendering (and When to Use Static Export)](https://blog.light-cloud.com/tutorials/deploy-nextjs) | 2026-10-16 | [code](https://github.com/light-cloud-com/tutorial-nextjs-app) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/23) |
 |  | [Add a PostgreSQL Database to a Node.js App on Light Cloud](https://blog.light-cloud.com/tutorials/add-postgres-to-nodejs-app) | 2026-10-17 | [code](https://github.com/light-cloud-com/tutorial-nodejs-api-postgres) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/24) |
 |  | [Deploy From GitLab: Connect Your Account and Deploy on Every Push](https://blog.light-cloud.com/tutorials/deploy-from-gitlab) | 2026-11-05 | [code](https://gitlab.com/julia188/tutorial-git-providers) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/33) |
+|  | [Deploy From GitHub: Install the App and Deploy on Every Push](https://blog.light-cloud.com/tutorials/deploy-from-github) | 2026-11-06 | [code](https://github.com/light-cloud-com/tutorial-git-providers) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/34) |
 
 New tutorials are published on the blog first and appear here the same day.
