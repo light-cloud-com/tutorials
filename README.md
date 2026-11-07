@@ -28,6 +28,12 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | 7/8 | [Schema Migrations on Every Deploy: Run Them When Your App Starts](https://blog.light-cloud.com/tutorials/database-migrations-in-deploys) | 2026-11-03 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/31) |
 | 8/8 | [Too Many Connections? Count Them and Size Your Pool](https://blog.light-cloud.com/tutorials/database-metrics-and-connections) | 2026-11-04 | [code](https://github.com/light-cloud-com/tutorial-database-basics) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/32) |
 
+## Monorepos on Light Cloud
+
+| # | Tutorial | Published | Code | Thread |
+|---|---|---|---|---|
+| 1/2 | [Deploy From a Monorepo: One Repository, Several Apps](https://blog.light-cloud.com/tutorials/deploy-from-a-monorepo) | 2026-11-07 | [code](https://github.com/light-cloud-com/tutorial-monorepo) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/35) |
+
 ## Guides
 
 | # | Tutorial | Published | Code | Thread |
