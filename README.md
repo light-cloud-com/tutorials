@@ -33,6 +33,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | # | Tutorial | Published | Code | Thread |
 |---|---|---|---|---|
 | 1/2 | [Deploy From a Monorepo: One Repository, Several Apps](https://blog.light-cloud.com/tutorials/deploy-from-a-monorepo) | 2026-11-07 | [code](https://github.com/light-cloud-com/tutorial-monorepo) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/35) |
+| 2/2 | [Working With a Monorepo: Shared Packages and npm Workspaces](https://blog.light-cloud.com/tutorials/monorepo-shared-packages) | 2026-11-08 | [code](https://github.com/light-cloud-com/tutorial-monorepo) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/36) |
 
 ## Guides
 
