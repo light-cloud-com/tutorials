@@ -40,6 +40,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | # | Tutorial | Published | Code | Thread |
 |---|---|---|---|---|
 | 1/7 | [SaaS Part 1: Deploy Your App and Database](https://blog.light-cloud.com/tutorials/start-a-saas-part-1-deploy) | 2026-11-20 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/37) |
+| 2/7 | [SaaS Part 2: Send Sign-up Emails With Resend](https://blog.light-cloud.com/tutorials/start-a-saas-part-2-email) | 2026-11-21 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/38) |
 
 ## Guides
 
