@@ -41,6 +41,8 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 |---|---|---|---|---|
 | 1/7 | [SaaS Part 1: Deploy Your App and Database](https://blog.light-cloud.com/tutorials/start-a-saas-part-1-deploy) | 2026-11-20 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/37) |
 | 2/7 | [SaaS Part 2: Send Sign-up Emails With Resend](https://blog.light-cloud.com/tutorials/start-a-saas-part-2-email) | 2026-11-21 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/38) |
+| 3/7 | [SaaS Part 3: Take Payments With Stripe (Test Mode)](https://blog.light-cloud.com/tutorials/start-a-saas-part-3-stripe) | 2026-11-22 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/39) |
+| 4/7 | [SaaS Part 4: Add Your Own Domain](https://blog.light-cloud.com/tutorials/start-a-saas-part-4-custom-domain) | 2026-11-23 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/40) |
 
 ## Guides
 
