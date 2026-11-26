@@ -45,6 +45,7 @@ Found a step that no longer matches the console, or stuck somewhere? Open the tu
 | 4/7 | [SaaS Part 4: Add Your Own Domain](https://blog.light-cloud.com/tutorials/start-a-saas-part-4-custom-domain) | 2026-11-23 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/40) |
 | 5/7 | [SaaS Part 5: Add a Password-Protected Staging Site](https://blog.light-cloud.com/tutorials/start-a-saas-part-5-staging) | 2026-11-24 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/41) |
 | 6/7 | [SaaS Part 6: Preview Every Pull Request](https://blog.light-cloud.com/tutorials/start-a-saas-part-6-previews) | 2026-11-25 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/42) |
+| 7/7 | [SaaS Part 7: Go Live With Real Payments](https://blog.light-cloud.com/tutorials/start-a-saas-part-7-go-live) | 2026-11-26 | [code](https://github.com/light-cloud-com/tutorial-saas-starter) | [discuss](https://github.com/light-cloud-com/tutorials/discussions/43) |
 
 ## Guides
 
